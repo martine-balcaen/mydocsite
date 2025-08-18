@@ -5,7 +5,19 @@
          <lastmod>2025-05-26</lastmod>
     </url>
     <url>
+         <loc>https://sitename.example/admonitions/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
          <loc>https://sitename.example/code-examples/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/content-tabs/</loc>
+         <lastmod>2025-05-26</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/diagram-examples/</loc>
          <lastmod>2025-05-26</lastmod>
     </url>
 </urlset>
