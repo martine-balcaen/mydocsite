@@ -1,5 +1,8 @@
-site_name: my docsite
-site_url: https://sitename.example
+site_name: get good - a blog
+site_url: https://martine-balcaen.github.io/mydocsite/
+nav:
+  - Home: index.md
+  - Site Setup: sitesetup.md
 theme:
   name: material
   font:

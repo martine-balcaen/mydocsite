@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sitename.example/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <loc>https://martine-balcaen.github.io/mydocsite/</loc>
+         <lastmod>2025-08-25</lastmod>
     </url>
     <url>
-         <loc>https://sitename.example/admonitions/</loc>
-         <lastmod>2025-05-26</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/code-examples/</loc>
-         <lastmod>2025-05-26</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/content-tabs/</loc>
-         <lastmod>2025-05-26</lastmod>
-    </url>
-    <url>
-         <loc>https://sitename.example/diagram-examples/</loc>
-         <lastmod>2025-05-26</lastmod>
+         <loc>https://martine-balcaen.github.io/mydocsite/sitesetup/</loc>
+         <lastmod>2025-08-25</lastmod>
     </url>
 </urlset>
