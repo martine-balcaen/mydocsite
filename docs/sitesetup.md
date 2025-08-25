@@ -1,8 +1,8 @@
-# My First Blog Post
+# How I Built This Site
 
-Quest: Create a GH pages site using Material for MkDocs, and create a blog post about the process
+This is a GH pages site built using Material for MkDocs. This post will walk you through how I created it and contribute to it.
 
 ## Starting From Scratch
-(Adapted from Getting Started with MkDocs and Getting Start with Materials for MkDocs)
+<small>Adapted from [Getting Started with MkDocs](https://www.mkdocs.org/getting-started/) and [Getting Start fot Materials for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)</small>
 
 pip install mkdocs
